@@ -46,6 +46,7 @@ jobs:
           git add -A
           ls -la
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Updated playlist.m3u
+      - name: commit & push
+        run: |
+          git commit -m "Updated playlist.m3u"
+          git push
