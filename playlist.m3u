@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/928/928633.png" group-title="Sports",UFC 01
+https://sports.freesportstime.com/live/stream_ufc1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503381.pngg" group-title="Sports",BOX 01
+https://sports.freesportstime.com/live/stream_box1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503381.pngg" group-title="Sports",BOX 02
+https://sports.freesportstime.com/live/stream_box2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633847.png" group-title="Sports",NHL 01
+https://sports.freesportstime.com/live/stream_nhl1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633847.png" group-title="Sports",NHL 02
+https://sports.freesportstime.com/live/stream_nhl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633847.png" group-title="Sports",NHL 03
+https://sports.freesportstime.com/live/stream_nhl3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633847.png" group-title="Sports",NHL 06
+https://sports.freesportstime.com/live/stream_nhl6.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633847.png" group-title="Sports",NHL 07
+https://sports.freesportstime.com/live/stream_nhl7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633847.png" group-title="Sports",NHL 08
+https://sports.freesportstime.com/live/stream_nhl8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/217/217076.png" group-title="Sports",NBA 01
+https://sports.freesportstime.com/live/stream_nba1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/217/217076.png" group-title="Sports",NBA 02
+https://sports.freesportstime.com/live/stream_nba2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/217/217076.png" group-title="Sports",NBA 03
+https://sports.freesportstime.com/live/stream_nba3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/217/217076.png" group-title="Sports",NBA 04
+https://sports.freesportstime.com/live/stream_nba4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/217/217076.png" group-title="Sports",NBA 05
+https://sports.freesportstime.com/live/stream_nba5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/217/217076.png" group-title="Sports",NBA 06
+https://sports.freesportstime.com/live/stream_nba6.m3u8
+
