@@ -47,7 +47,7 @@ def create_playlist(all_urls: dict[str, list[str]]) -> None:
                     f.write(f"#EXTINF:-1 tvg-logo=\"https://cdn-icons-png.flaticon.com/512/2633/2633847.png\" group-title=\"Sports\",{title}\n")
                 elif category == "box":
                     # https://cdn-icons-png.flaticon.com/512/2503/2503381.png
-                    f.write(f"#EXTINF:-1 tvg-logo=\"https://cdn-icons-png.flaticon.com/512/2503/2503381.pngg\" group-title=\"Sports\",{title}\n")
+                    f.write(f"#EXTINF:-1 tvg-logo=\"https://cdn-icons-png.flaticon.com/512/2503/2503381.png\" group-title=\"Sports\",{title}\n")
                 elif category == "ufc":
                     # https://cdn-icons-png.flaticon.com/512/928/928633.png
                     f.write(f"#EXTINF:-1 tvg-logo=\"https://cdn-icons-png.flaticon.com/512/928/928633.png\" group-title=\"Sports\",{title}\n")
