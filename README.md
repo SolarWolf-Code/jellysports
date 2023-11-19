@@ -2,8 +2,8 @@
 
 A simple repo to create a m3u playlist for sports livestreams
 
-[!NOTE]
-Repo moved to personal Gitea instance due to potential actions credit limit. Find updates [here](https://gitea.solarwolf.xyz/SolarWolf/jellysports)
+> [!NOTE]
+> Repo moved to personal Gitea instance due to potential actions credit limit. Find updates [here](https://gitea.solarwolf.xyz/SolarWolf/jellysports)
 
 ## Local Setup
 ``` shell
